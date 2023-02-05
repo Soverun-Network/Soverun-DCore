@@ -18,7 +18,7 @@ sudo apt install docker && sudo apt install docker-compose
 ### Step 2: Clone the Github repository
 
 ```sh
-git clone https://github.com/ProsperaGlobal/Core-Blockchain.git
+git clone https://github.com/Soverun-Network/Soverun-DCore.git
 ```
 
 ### Step 3: Navigate into the directory where you've cloned this repository
