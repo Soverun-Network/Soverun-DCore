@@ -24,7 +24,7 @@ git clone https://github.com/Soverun-Network/Soverun-DCore.git
 ### Step 3: Navigate into the directory where you've cloned this repository
 
 ```sh
-cd Core-Blockchain/
+cd Soverun-DCore/
 ```
 
 ### Step 4: Add your wallet's address, private key and password to docker-compose.yml file
